@@ -1,0 +1,26 @@
+{
+  "name": "awssms",
+  "version": "1.0.0",
+  "description": "Send sms aws lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://XXXXXX@bitbucket.org/xxxxx/xxxxxx.git"
+  },
+  "keywords": [
+    "sns",
+    "aws",
+    "lamda",
+    "sms",
+    "github"
+  ],
+  "author": "xxxxx",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/xxxxx/xxxxx#readme",
+  "dependencies": {
+    "aws-sdk": "2.518.0"
+  }
+}
