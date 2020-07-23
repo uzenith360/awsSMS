@@ -15,3 +15,7 @@ example: https://wuieuiwey.execute-api.eu-west-1.amazonaws.com/send_sms?subject=
 For any queries, please feel free to reach me on wogwugwu.zenith@gmail.com
 
 Happy implementing!
+
+#Update: 24/07/2020
+I find it far less stress to use serverless.com and i'd recommend that going forward.
+Thanks
